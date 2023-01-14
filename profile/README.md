@@ -5,7 +5,10 @@ The Quizly application is an application to test your knowledge in quizzes in va
 [![Dart](https://img.shields.io/static/v1?style=for-the-badge&message=Dart&color=0175C2&logo=Dart&logoColor=FFFFFF&label=)](https://dart.dev/)[![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)](https://flutter.dev/)
 
 A simple Quiz App that contains a group of curated questions and their answers and checks for the correctness of the solution given by the user.
-- [Installation]()
+
+- [Wiki](https://github.com/QuizlyTeam/quizly_app/wiki)
+- [Installation](https://github.com/QuizlyTeam/quizly_app/wiki/Installation)
+- [Users' guide](https://github.com/QuizlyTeam/quizly_app/wiki/Users'-guide)
 - [Documentation]()
 
 ## Backend
@@ -13,8 +16,9 @@ A simple Quiz App that contains a group of curated questions and their answers a
 
 ContentAPI power its platform for quizzes. It's divied into Rest API and websockets. First one allows simple queries against categories / quizzes / user's quizzes / tags. Second one is responsible to handle quiz game.
 
-- [Installation](https://github.com/QuizlyTeam/ContentApi#installation)
-- [Documentation](https://github.com/QuizlyTeam/ContentApi#documentation)
+- [Wiki](https://github.com/QuizlyTeam/ContentApi/wiki)
+- [Installation](https://github.com/QuizlyTeam/ContentApi/wiki/Installation)
+- [Documentation](https://github.com/QuizlyTeam/ContentApi/wiki#documentation-)
 
 ## License
 [![Licence](https://img.shields.io/github/license/QuizlyTeam/ContentApi?style=for-the-badge)](./LICENSE)
