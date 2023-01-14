@@ -2,7 +2,7 @@
 The Quizly application is an application to test your knowledge in quizzes in various categories, create your quizzes and compete with friends online. Our application combines the best features of popular quiz apps while eliminating their weak points and expanding their functionalities. Creating your quizzes will never be easier!
 
 ## Frontend
-[![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)](https://flutter.dev/)
+[![Dart](https://img.shields.io/static/v1?style=for-the-badge&message=Dart&color=0175C2&logo=Dart&logoColor=FFFFFF&label=)](https://dart.dev/)[![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)](https://flutter.dev/)
 - [Installation]()
 - [Documentation]()
 
