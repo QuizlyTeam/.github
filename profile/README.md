@@ -9,7 +9,7 @@ A simple Quiz App that contains a group of curated questions and their answers a
 - [Wiki](https://github.com/QuizlyTeam/quizly_app/wiki)
 - [Installation](https://github.com/QuizlyTeam/quizly_app/wiki/Installation)
 - [Users' guide](https://github.com/QuizlyTeam/quizly_app/wiki/Users'-guide)
-- [Documentation]()
+- [Documentation](https://quizlyteam.github.io/quizly_app/)
 
 ## Backend
 [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/)[![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)](https://fastapi.tiangolo.com/)[![Pytest](https://img.shields.io/static/v1?style=for-the-badge&message=Pytest&color=0A9EDC&logo=Pytest&logoColor=FFFFFF&label=)](https://docs.pytest.org/en/7.2.x/)[![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)](https://python-socketio.readthedocs.io/en/latest/)[![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)](https://firebase.google.com/)
